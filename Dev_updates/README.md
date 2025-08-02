@@ -1,5 +1,5 @@
-# Flying gantry Z-belt pins - RC2 Gantry Update
-
+# January 27, 2025
+## Flying gantry Z-belt pins - RC2 Gantry Update
 Today I looked at the possibility of implementing the same Z-belt pin method, that's present in the CNC kits into the sheet metal one.
 
 The biggest issue with RC1 is that the Z belts have to be pre-installed if someone's using the printed alignment helpers. So I wanted to see if we can improve on that. Unfortunately, with the NP rail clearance and the larger OD of the M5 BHCS screw, there's very little material left around the pins, so I'm left with these options:
@@ -8,5 +8,8 @@ The biggest issue with RC1 is that the Z belts have to be pre-installed if someo
 
 I'm gravitating towards the former because the sheet metal gantry BOM is already complicated enough and there isn't a lot more I can do to help with the plate alignment anyway. Also, the whole thing looks better without the printed parts.
 
--# Members Area post from January 27, 2025.
+![1](Dev_images/27_01_2025/27_01_2025_1.jpg)
 
+![2](Dev_images/27_01_2025/27_01_2025_2.png)
+
+![3](Dev_images/27_01_2025/27_01_2025_3.png)
