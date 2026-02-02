@@ -33,6 +33,8 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ### [Configurator and BOM - Google Sheets ](https://docs.google.com/spreadsheets/d/14mWAb1CxOuovr1oKOu4pIA4AFW-SMeCLfFVxeun0VMA/edit?usp=sharing)
 
+### [FAQ](/FAQ.md)
+
 <br/>
 
 > [!NOTE]
