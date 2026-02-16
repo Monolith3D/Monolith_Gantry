@@ -31,7 +31,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Much better tensioner travel
 - No toothed idlers
 
-### [Configurator and BOM - Google Sheets ](https://docs.google.com/spreadsheets/d/14mWAb1CxOuovr1oKOu4pIA4AFW-SMeCLfFVxeun0VMA/edit?usp=sharing)
+### [Gantry Configurator](https://mnlth.csovesbanat.hu/)
 
 ### [FAQ](/FAQ.md)
 
@@ -70,6 +70,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 We want to thank:
 
 - **[Sy-Noon](https://synoon.portfoliobox.net/)** for the awesome logo and feedback on general aesthetics
+- **itsK** for the configurator website
 - **ifp, iniqy, krankydonkey, MoneyShot, Nicket, tktktktk, Zakfarias, Scarecrow, The Adeo** for testing and good feedback
 - **ZaMarin** and **Renovic** for the FAQ
 - **Armchair Heavy Industries** for the exposure and the moderation help I got in their user-project space
