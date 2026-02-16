@@ -46,11 +46,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 >
 > [![Join the Discord](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
 
-## 2025 Roadmap
-- Milled 9mm AWD kits
-- Monolith CPAP SLM toolhead
-- Better documentation
-
 ## Design goals
 - The shortest and the simplest belt path possible with AWD compatibility
 - The shortest moment arms possible for increased rigidity even when reusing hardware and motion parts
@@ -72,14 +67,14 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Trident rear vertical extrusion brackets have to be rotated by 180 degrees or swapped to regular 2020 brackets based on the gantry configuration
 
 ## Acknowledgement
-I want to thank:
+We want to thank:
 
 - **[Sy-Noon](https://synoon.portfoliobox.net/)** for the awesome logo and feedback on general aesthetics
 - **ifp, iniqy, krankydonkey, MoneyShot, Nicket, tktktktk, Zakfarias, Scarecrow, The Adeo** for testing and good feedback
-- **ZaMarin** for FAQ
+- **ZaMarin** and **Renovic** for the FAQ
 - **Armchair Heavy Industries** for the exposure and the moderation help I got in their user-project space
-- **VoronDesign** for making V2.4 and Trident and for starting me on this journey to improve my FDM design skills
-- anyone who helped me along the way
+- **VoronDesign** for making V2.4 and Trident and for starting us on this journey
+- anyone who helped us along the way
 
 <br/><br/><br/><br/>
 This work is licensed under a
