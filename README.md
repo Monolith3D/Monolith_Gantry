@@ -11,6 +11,12 @@
 ## What's this?
 This is a performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
 
+### [Official LDO Milled Gantry Kits](https://github.com/Monolith3D/LDO_Monolith_Gantry_Kits)
+
+### [Gantry Configurator](https://mnlth.csovesbanat.hu/)
+
+### [FAQ](/FAQ.md)
+
 ### Drive configurations:
 - 2WD
 - AWD
@@ -22,6 +28,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
  ### Materials:
 - Printed
 - Sheet metal
+- Milled kits
 
 ## What's new with Monolith R1?
 - Updated styling
@@ -30,11 +37,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Can fit into a stock 2020 frame at the cost of some Y-overtravel with the added no-protrusion mode
 - Much better tensioner travel
 - No toothed idlers
-
-### [Gantry Configurator](https://mnlth.csovesbanat.hu/)
-
-### [FAQ](/FAQ.md)
-
 <br/>
 
 > [!NOTE]
