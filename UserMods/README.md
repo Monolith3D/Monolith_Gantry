@@ -28,4 +28,5 @@ Use user mods at your own risk. They may not receive updates when the main Monol
 | [XY Joints compatible with Fysetc CNC Stealthchanger Shuttle](dderg/XY%20Joints%20compatible%20with%20Fysetc%20CNC%20Stealthchanger%20Shuttle/) | dderg | Moves the X beam back 2 mm so 9 mm belts can clamp from the front of the Fysetc CNC Stealthchanger Shuttle. |
 | [Monolith K1 Max](KhaymKhaym/Monolith%20K1%20Max/) | KhaymKhaym and BootyCallJones | Adapts the Monolith Gantry to the Creality K1 Max with CAD, panel DXF, gantry reinforcement DXF, and print files. |
 | [Monolith VZ330](KhaymKhaym/Monolith%20VZ330/) | KhaymKhaym and Kaifas | Adapts the Monolith Gantry to the VZ330 with CAD-based assembly instructions. |
+| [Sheet-Metal Monolith 3030 Mod](WolfKnifeLaserBacon/) | WolfKnifeLaserBacon | Adapts Sheet-Metal Monolith to 3030 Extrusions with CAD and BOM, changes required, etc |
 | your name here :) |  |  |
