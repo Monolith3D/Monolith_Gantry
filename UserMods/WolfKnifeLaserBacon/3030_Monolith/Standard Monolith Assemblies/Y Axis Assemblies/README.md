@@ -13,9 +13,6 @@ STEP files for the 3030 Monolith Y-axis, frame extrusion, and rear motor assembl
 - `3030 Rear Left Motor Assembly.step`  
   Left-side rear motor assembly.
 
-- `3030 Rear Motor Assemblies.step`  
-  Complete rear motor assembly containing both left and right sides.
-
 - `3030 Rear Right Motor Assembly.step`  
   Right-side rear motor assembly.
 
