@@ -6,7 +6,11 @@ This user mod adapts the **Monolith gantry system** for use with a **Rat Rig V-C
 
 The current design is being developed around a **V-Core 3.1 500**, but there should be no major obstacle to adapting the design to other V-Core 3.1 sizes by adjusting the extrusion, rail, and belt lengths as required.
 
-Most of the assembly and hardware remain based on the **standard Monolith BOM**. This repository primarily contains the parts and dimensional changes required to adapt Monolith to the V-Core 3.1 frame.
+Most of the assembly and hardware remain based on the standard **Monolith BOM**. This repository primarily contains the parts and dimensional changes required to adapt Monolith to the V-Core 3.1 frame along with as much information as I cam think if to provide.
+
+For **current development notes, reference information, and questions**, see the dedicated Discord discussion:
+
+💬 **[Monolith V-Core 3.1 User Mod Development Thread](https://discord.com/channels/1227971059764953230/1537888786921427094)**
 
 ## Current Status
 
