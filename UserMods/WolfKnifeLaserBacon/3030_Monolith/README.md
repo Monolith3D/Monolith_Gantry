@@ -143,7 +143,7 @@ Final belt length will be added after the belt path is finalized.
 | 6 | M5 × 8 BHCS |
 | 2 | M5 × 30 BHCS |
 
-### M6 / 3030 Hardware
+### M6 / 3030 Specific Hardware
 
 | Qty | Part |
 |---:|---|
