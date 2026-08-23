@@ -229,11 +229,11 @@ Find me everywhere (literally) on Discord **WolfKnifeLaserBacon**
 
 ## Special Thanks
 
-Special thanks to **[CloakedWayne]** for the development of the **Monolith gantry**.
+Special thanks to **CloakedWayne** for the development of the **Monolith gantry** — the de facto solution for speed, simplicity, and quality.
 
-Additional thanks to:
+**Additional thanks to:**
 
-- **[Maurice]** — [Testing and confirmations]
+- **Maurice** — Testing and confirmations
 - **[your name here / USERNAME]** — [CONTRIBUTION]
 
 The **3030 Monolith** would not be where it is today without the ideas, feedback, testing, and support contributed along the way. Thank you to everyone who helped turn the concept into a finished design.
