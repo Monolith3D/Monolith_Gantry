@@ -229,7 +229,7 @@ Find me everywhere (literally) on Discord **WolfKnifeLaserBacon**
 
 ## Special Thanks
 
-Special thanks to **CloakedWayne** for the development of the **Monolith gantry** — the de facto solution for speed, simplicity, and quality.
+Special thanks to the **[Monolith community](https://discord.gg/monolith3d)** on Discord and to **CloakedWayne** for the development of the **Monolith gantry** — the de facto solution for speed, simplicity, and quality.
 
 **Additional thanks to:**
 
