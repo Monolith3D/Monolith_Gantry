@@ -23,6 +23,7 @@ The current release is designed around an **AWD Monolith configuration**.
 
 A **2WD version is planned** and will be adapted in a future revision.
 
+**I have not settled on a toolhead at this time.**
 ---
 
 ## Planned Variants
