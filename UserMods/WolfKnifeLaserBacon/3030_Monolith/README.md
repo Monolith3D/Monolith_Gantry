@@ -53,10 +53,6 @@ Uses the **standard Monolith Y-rail placement** with a **top-mounted X rail**.
 
 # VC3.1 500 Dimensions
 
-## Rear Crossbar
-
-**Rear crossbar length:** 508 mm
-
 ## Forward-Mounted X / Inner-Mounted Y
 
 This is the current standard Monolith-style configuration.
