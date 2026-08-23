@@ -224,3 +224,25 @@ Dimensions, hardware quantities, and CAD may change as additional configurations
 Parts marked **TBD** have not yet been finalized and should not be treated as manufacturing dimensions.
 
 If you build or adapt this mod for another V-Core 3.1 size, contributions, measurements, and feedback are welcome.
+
+Find me everywhere (literally) on Discord **WolfKnifeLaserBacon**  
+
+## Special Thanks
+
+Special thanks to **[CloakedWayne]** for the development of the **Monolith gantry**.
+
+Additional thanks to:
+
+- **[Maurice]** — [Testing and confirmations]
+- **[your name here / USERNAME]** — [CONTRIBUTION]
+
+The **3030 Monolith** would not be where it is today without the ideas, feedback, testing, and support contributed along the way. Thank you to everyone who helped turn the concept into a finished design.
+
+## Support Me
+
+**NOT required, but very much appreciated!!** - If you'd like to support my work and future development, you can do so through Ko-fi:
+
+**[Support me on Ko-fi](https://ko-fi.com/laserbacon)**
+
+Every bit of support helps with continued development, prototyping, testing, and future projects. Thank you!
+
