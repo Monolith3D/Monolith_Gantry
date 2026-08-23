@@ -66,6 +66,7 @@ This is the current standard Monolith-style configuration.
 | X beam | 594 mm |
 | X linear rail | 570 mm |
 | Y linear rails | 550 mm — stock VC3.1 |
+| Rear extrusion length | 510 mm |
 
 ## Top-Mounted X / Stock Y Placement
 
@@ -74,6 +75,7 @@ This is the current standard Monolith-style configuration.
 | X beam | TBD |
 | X linear rail | TBD |
 | Y linear rails | 550 mm — stock VC3.1 |
+| Rear extrusion length | 510 mm |
 
 Additional dimensions will be added as the alternate variants are completed and verified.
 
