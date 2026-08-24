@@ -37,7 +37,30 @@ For example:
 
 ```text
 2x
-Sheet_metal_9mm_tensioner_c_4.7-5mm.step
+Sheet_metal_9mm_tensioner_c_4.7-5mm.step```
+
+### Combined Spacer Part
+
+The following individual spacer file is required at **4x pieces, 1.5 mm thick each**:
+
+`Sheet_metal_9mm_spacer_c_1.5mm.step`
+
+Because these parts are relatively small, some fabrication services may not be able to manufacture them individually due to minimum part-size requirements.
+
+For that reason, the following combined version is also provided:
+
+`Combined_Sheet_metal_9mm_spacer_c_1.5mm.step`
+
+The combined file joins the required spacers together with small connecting tabs so the assembly can be ordered as one larger part.
+
+After fabrication:
+
+- Cut the individual spacers apart at the connecting tabs.
+- File or sand the remaining connection points smooth.
+- Remove any burrs before assembly.
+- Verify that the finished spacers remain flat.
+
+The combined file is only a **manufacturing convenience** and does not change the required final spacer thickness or quantity.
 
 ## Questions / Discord
 
