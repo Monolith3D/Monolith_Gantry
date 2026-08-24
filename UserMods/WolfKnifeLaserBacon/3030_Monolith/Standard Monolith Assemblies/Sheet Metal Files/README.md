@@ -1,23 +1,39 @@
 # Sheet Metal Parts
 
-This folder contains the sheet metal components required for the 3030 Monolith gantry.
+This folder contains the sheet metal components required for the **3030 Monolith gantry**.
 
 These parts are intended to be sent to a sheet metal fabrication service for cutting and forming before assembly.
 
-### **PLEASE NOTE — `Combined_Sheet_metal_9mm_spacer_c_1.5mm.step`**
+---
 
-This combined 1.5 mm spacer is intended as an alternative if the individual spacer is too small to manufacture.
+# Ordering Instructions
 
-After fabrication, the combined spacer will need to be **cut apart at the connecting tabs and the connection points filed smooth**.
+## Understanding the File Names
 
-## Notes
+The STEP file names include important information about:
 
-Before ordering, verify:
+- Required quantity
+- Part name
+- Acceptable material thickness
+- Required finished stack thickness
 
-- Material type
-- Material thickness
-- Bend requirements
-- Part dimensions
-- Fabrication tolerances
+**Please read the file name carefully before ordering.**
 
-Available tooling and bend tolerances may vary between fabrication services.
+There are two different thickness conventions used in this folder:
+
+1. **Thickness options** — either listed thickness is acceptable.
+2. **Specified thickness** — the listed thickness is required to achieve the correct assembled stack height.
+
+These are not interchangeable.
+
+---
+
+## Quantity Prefix
+
+The quantity shown with each file indicates the **total number of finished parts required**.
+
+For example:
+
+```text
+2x
+Sheet_metal_9mm_tensioner_c_4.7-5mm.step
