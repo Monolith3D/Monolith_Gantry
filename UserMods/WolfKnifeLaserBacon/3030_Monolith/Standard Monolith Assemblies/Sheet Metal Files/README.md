@@ -37,7 +37,18 @@ For example:
 
 ```text
 2x
-Sheet_metal_9mm_tensioner_c_4.7-5mm.step```
+Sheet_metal_9mm_tensioner_c_4.7-5mm.step
+```
+
+This means:
+
+- Order **2 pieces**
+- Each piece may be made from either **4.7 mm or 5.0 mm material**
+- Both thicknesses are acceptable for this component
+
+Different fabrication services offer different standard material thicknesses, so the files allow either option where appropriate.
+
+---
 
 ### Combined Spacer Part
 
@@ -62,6 +73,8 @@ After fabrication:
 
 The combined file is only a **manufacturing convenience** and does not change the required final spacer thickness or quantity.
 
+---
+
 ## Questions / Discord
 
 If you have questions about the **3030 Monolith conversion**, sheet metal ordering, assembly, fitment, or current development, you can usually find me on Discord as:
@@ -70,4 +83,6 @@ If you have questions about the **3030 Monolith conversion**, sheet metal orderi
 
 You can find me in the **[Monolith Discord](https://discord.gg/monolith3d)** or in the dedicated **[3030 Monolith Development Thread](https://discord.com/channels/1227971059764953230/1537888786921427094)**.
 
-I’m happy to help clarify file requirements, ordering details, assembly questions, or anything else that comes up during your build. Dont be shy, your question may prompt an addition to this readme and a nice soeciap thanks add to the main readme!
+I’m happy to help clarify file requirements, ordering details, assembly questions, or anything else that comes up during your build.
+
+**Don’t be shy — your question may prompt an addition to this README and earn you a nice special thanks in the main README!**
