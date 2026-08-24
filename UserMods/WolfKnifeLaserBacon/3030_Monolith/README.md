@@ -26,7 +26,7 @@ For current development notes, reference information, and questions, see the ded
 
 The current release is designed around an **AWD Monolith configuration**.
 
-A 2WD version may be adapted in a future revision.
+A 2WD version will be adapted in a future revision.
 
 No single toolhead has been selected as the required configuration. One of the goals of the project is to support multiple compatible toolhead and tool-changing options where practical.
 
@@ -43,7 +43,6 @@ Several alternatives were investigated, including:
 - Bottom-mounted Y rails
 - Mixed top/bottom Y-rail arrangements
 - Top-mounted X rail
-- Forward-mounted X rail
 
 While some of these arrangements are technically possible, the required offsets, clearance compromises, loss of usable travel, increased complexity, and additional custom geometry outweigh their advantages.
 
@@ -56,10 +55,11 @@ Because of this, development will now focus solely on the **standard Monolith ra
 - Standard Monolith rail geometry
 - Different belt widths and belt configurations
 - AWD
-- Potential 2WD adaptation
+- 2WD adaptation
 - Multiple toolhead options
 - Tool changer compatibility
 - Additional V-Core 3.1 frame sizes where practical
+- Additional 3030 extrusion based printers
 
 The goal is to refine one solid Monolith-based architecture rather than divide development between several compromised rail configurations.
 
@@ -126,7 +126,7 @@ The following lists the hardware currently identified for the **3030 V-Core 3.1 
 
 | Qty | Part |
 | ---: | --- |
-| TBD | 9 mm GT2 belt |
+| 5.8m | 9 mm GT2 belt |
 
 Final belt lengths will be added after the belt path and tensioning requirements have been finalized.
 
