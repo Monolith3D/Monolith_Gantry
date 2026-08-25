@@ -313,6 +313,23 @@ The **~470 mm X travel figure is currently a conservative estimate** for the V-C
 
 If you build or adapt this mod for another V-Core 3.1 size, contributions, measurements, testing, and feedback are welcome.
 
+# Initial ChatGPT Belt Length Comparison
+
+| Belt configuration | Approximate length per belt | Approximate total for two belts |
+|---|---:|---:|
+| Stock Rat Rig V-Core 3.1 500 | 2,681 mm | 5,362 mm |
+| 9 mm AWD arrangement | 2,589 mm | 5,178 mm |
+| Difference | 92 mm shorter | 183 mm shorter |
+
+The **9 mm AWD belts are approximately 3.4% shorter** than the stock Rat Rig V-Core 3.1 500 belts.
+
+## Recommended Initial Cut Lengths
+
+- **Stock V-Core 3.1 500:** approximately 2.70 m per belt
+- **9 mm AWD arrangement:** approximately 2.61–2.62 m per belt
+
+A **6 m roll of 9 mm GT2 belt** is sufficient for either configuration.
+
 Find me everywhere — literally — on Discord:
 
 **WolfKnifeLaserBacon**
