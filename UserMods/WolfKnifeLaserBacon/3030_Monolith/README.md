@@ -301,7 +301,7 @@ before operating the printer at high acceleration or speed.
 
 ---
 
-# Belt Length Comparison
+# Initial ChatGPT Estimated Belt Length Comparison
 
 | Belt configuration | Approximate length per belt | Approximate total for two belts |
 |---|---:|---:|
