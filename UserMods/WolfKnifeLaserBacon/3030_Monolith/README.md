@@ -301,19 +301,7 @@ before operating the printer at high acceleration or speed.
 
 ---
 
-# Notes
-
-This project is under active development.
-
-Dimensions, hardware quantities, belt lengths, and CAD may change as the design is built and tested.
-
-Parts marked **TBD** have not yet been finalized and should not be treated as manufacturing dimensions.
-
-The **~470 mm X travel figure is currently a conservative estimate** for the V-Core 3.1 500 Monolith configuration. Final usable travel will depend partially on the selected toolhead and associated hardware.
-
-If you build or adapt this mod for another V-Core 3.1 size, contributions, measurements, testing, and feedback are welcome.
-
-# Initial ChatGPT Belt Length Comparison
+# Belt Length Comparison
 
 | Belt configuration | Approximate length per belt | Approximate total for two belts |
 |---|---:|---:|
@@ -329,6 +317,20 @@ The **9 mm AWD belts are approximately 3.4% shorter** than the stock Rat Rig V-C
 - **9 mm AWD arrangement:** approximately 2.61–2.62 m per belt
 
 A **6 m roll of 9 mm GT2 belt** is sufficient for either configuration.
+
+---
+
+# Notes
+
+This project is under active development.
+
+Dimensions, hardware quantities, belt lengths, and CAD may change as the design is built and tested.
+
+Parts marked **TBD** have not yet been finalized and should not be treated as manufacturing dimensions.
+
+The **~470 mm X travel figure is currently a conservative estimate** for the V-Core 3.1 500 Monolith configuration. Final usable travel will depend partially on the selected toolhead and associated hardware.
+
+If you build or adapt this mod for another V-Core 3.1 size, contributions, measurements, testing, and feedback are welcome.
 
 Find me everywhere — literally — on Discord:
 
