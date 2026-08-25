@@ -1,23 +1,102 @@
 # Sheet Metal Parts
 
-This folder contains the sheet metal components required for the 3030 Monolith gantry.
+This folder contains the sheet metal components required for the **3030 Monolith gantry**.
 
 These parts are intended to be sent to a sheet metal fabrication service for cutting and forming before assembly.
 
-### **PLEASE NOTE — `Combined_Sheet_metal_9mm_spacer_c_1.5mm.step`**
+---
 
-This combined 1.5 mm spacer is intended as an alternative if the individual spacer is too small to manufacture.
+# Ordering Instructions
 
-After fabrication, the combined spacer will need to be **cut apart at the connecting tabs and the connection points filed smooth**.
+## Understanding the File Names
 
-## Notes
+The STEP file names include important information about:
 
-Before ordering, verify:
+- Required **total** quantity
+- Part name
+- Acceptable material thickness
+- Required finished stack thickness
 
-- Material type
-- Material thickness
-- Bend requirements
-- Part dimensions
-- Fabrication tolerances
+**Please read the file name carefully before ordering.**
 
-Available tooling and bend tolerances may vary between fabrication services.
+There are two different thickness conventions used in this folder:
+
+1. **Thickness options** — either listed thickness is acceptable.
+
+2. **Specified thickness** — the listed thickness is required to achieve the correct assembled stack height. For parts requiring a **5 mm total thickness**, two **2.5 mm parts may be stacked together**. This is often preferable because the closest commonly available single-sheet option is **4.7 mm**, which does not provide the required stack height, while **2.5 mm material is typically readily available**.
+
+These are not interchangeable.
+
+---
+
+## Quantity Prefix
+
+The quantity shown with each file indicates the **total number of finished parts required**.
+
+For example:
+
+```text
+2x Sheet_metal_9mm_tensioner_c_4.7-5mm.step
+```
+
+This means:
+
+- Order **2 pieces**
+- Each piece may be made from either **4.7 mm or 5.0 mm material**
+- Both thicknesses are acceptable for this component
+
+Additionally, parts listed without a leading quantity should have a quantity and thickness listed near the end of the filename. 
+
+For example:
+
+```text
+Sheet_metal_9mm_spacer_a_4x2.5mm_or_2x5mm.step
+```
+
+This means:
+
+- Order **4 pieces at 2.5mm OR 2 pieces at 5mm**
+- Both thicknesses are acceptable for this component at the quantity listed
+
+Different fabrication services offer different standard material thicknesses, so the files allow either option where appropriate.
+
+---
+
+### Combined Spacer Part
+
+The following individual spacer file is required at **4x pieces, 1.5 mm thick each**:
+
+`Sheet_metal_9mm_spacer_c_1.5mm.step`
+
+Because these parts are relatively small, some fabrication services may not be able to manufacture them individually due to minimum part-size requirements.
+
+For that reason, the following combined version is also provided:
+
+`Combined_Sheet_metal_9mm_spacer_c_1.5mm.step`
+
+The combined file joins the required spacers together with small connecting tabs so the assembly can be ordered as one larger part.
+
+After fabrication:
+
+- Cut the individual spacers apart at the connecting tabs.
+- File or sand the remaining connection points smooth.
+- Remove any burrs before assembly.
+- Verify that the finished spacers remain flat.
+
+The combined file is only a **manufacturing convenience** and does not change the required final spacer thickness or quantity.
+
+*At this time, the closest option is 1.6mm thickness. Testing will determine if this is allowable or if further post processing is required.* 
+
+---
+
+## Questions / Discord
+
+If you have questions about the **3030 Monolith conversion**, sheet metal ordering, assembly, fitment, or current development, you can usually find me on Discord as:
+
+**WolfKnifeLaserBacon**
+
+You can find me in the **[Monolith Discord](https://discord.gg/monolith3d)** or in the dedicated **[3030 Monolith Development Thread](https://discord.com/channels/1227971059764953230/1537888786921427094)**.
+
+I’m happy to help clarify file requirements, ordering details, assembly questions, or anything else that comes up during your build.
+
+**Don’t be shy — your question may prompt an addition to this README and earn you a nice special thanks in the main README!**
