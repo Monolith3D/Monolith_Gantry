@@ -85,6 +85,8 @@ After fabrication:
 
 The combined file is only a **manufacturing convenience** and does not change the required final spacer thickness or quantity.
 
+*At this time, the closest option is 1.6mm thickness. Testing will determine if this is allowable or if further post processing is required.* 
+
 ---
 
 ## Questions / Discord
