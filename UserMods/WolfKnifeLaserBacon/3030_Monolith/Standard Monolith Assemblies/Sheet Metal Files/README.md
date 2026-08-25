@@ -12,7 +12,7 @@ These parts are intended to be sent to a sheet metal fabrication service for cut
 
 The STEP file names include important information about:
 
-- Required quantity
+- Required **total** quantity
 - Part name
 - Acceptable material thickness
 - Required finished stack thickness
@@ -36,8 +36,7 @@ The quantity shown with each file indicates the **total number of finished parts
 For example:
 
 ```text
-2x
-Sheet_metal_9mm_tensioner_c_4.7-5mm.step
+2x Sheet_metal_9mm_tensioner_c_4.7-5mm.step
 ```
 
 This means:
@@ -45,6 +44,19 @@ This means:
 - Order **2 pieces**
 - Each piece may be made from either **4.7 mm or 5.0 mm material**
 - Both thicknesses are acceptable for this component
+
+Additionally, parts listed without a leading quantity should have a quantity and thickness listed near the end of the filename. 
+
+For example:
+
+```text
+Sheet_metal_9mm_spacer_a_4x2.5mm_or_2x5mm.step
+```
+
+This means:
+
+- Order **4 pieces at 2.5mm OR 2 pieces at 5mm**
+- Both thicknesses are acceptable for this component at the quantity listed
 
 Different fabrication services offer different standard material thicknesses, so the files allow either option where appropriate.
 
