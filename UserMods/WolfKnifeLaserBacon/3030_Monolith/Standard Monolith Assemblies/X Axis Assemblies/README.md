@@ -15,6 +15,8 @@ STEP files for the 3030 Monolith X/Y joint and X-axis assemblies.
 
 ## Notes
 
+Carriage model used is a 12C
+
 These files are intended for the 3030 Monolith gantry configuration.
 
 The left and right X/Y joint assemblies are provided separately for easier reference, modification, and integration into larger CAD assemblies.

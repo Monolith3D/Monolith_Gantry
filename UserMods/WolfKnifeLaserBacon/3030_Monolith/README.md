@@ -20,8 +20,8 @@ For current development notes, reference information, and questions, see the ded
 - **Drive configuration:** AWD
 - **Gantry configuration:** Standard Monolith rail arrangement
 - **X beam:** 594 mm
-- **X linear rail:** 570 mm
-- **Y linear rails:** 550 mm — stock VC3.1
+- **X MGN-12H linear rail:** 570 mm - Monolith standard
+- **Y MGN-12C linear rails:** 550 mm - stock VC3.1
 - **Development status:** Work in progress
 
 The current release is designed around an **AWD Monolith configuration**.
