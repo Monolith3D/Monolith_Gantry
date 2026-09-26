@@ -107,20 +107,7 @@
 
 ## Compatability 
 ### What toolheads can I use?
-- Monolith has a flipped belt path, so toolhead designs need to be designed with different belt clamps
-   - Many toolheads make use of the [SLM Belt Clamp](https://github.com/Monolith3D/MISC/tree/main/Monolith_SLM_belt_clamps)
-- Toolhead designs:
-   - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype), with [Monolith Belt Clamps](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod) (these are for Expiremental branch)
-   - [Banantis](https://github.com/jakub874/Banantis)
-   - [DK's Monolith Toolhead](https://github.com/Kizime123/DKs-Monolith-Toolhead)
-   - [FiberSteam Toolhead](https://github.com/Shamoon78/Angry_Tool_Head/)
-   - [FiberStream Toolhead](https://www.printables.com/model/1219174-fiberstream-toolhead)
-   - [Gustav Railway Toolhead](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead)
-   - [Stormbreaker-Toolhead](https://github.com/Gr33n5murf/Stormbreaker-Toolhead)
-   - [Takeoff-Toolhead](https://github.com/Kizime123/Takeoff-Toolhead)
-   - [Trinity-Toolhead](https://github.com/WV-design/Trinity-toolhead/)
-   - [UAP](https://www.printables.com/model/1353685-uap-v6)
-   - [Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead), with [Monolith_Xol-Carriage](https://github.com/Armchair-Heavy-Industries/Armchair-Usermods/tree/main/files/Xol-Toolhead/Monolith_Xol-Carriage)
+- See [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible toolheads, belt clamps, and design guidelines.
 
 ## Assembly
 ### How do I assemble the XY joints?
