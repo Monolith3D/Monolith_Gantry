@@ -2,8 +2,8 @@
 
 ## Configuration Options
 
-### What does NP and FT mean?
-- No Protrusion (NP) means the rear and front motors mounts don't protrude out of the frame perimeter
+### What do NP and FT mean?
+- No Protrusion (NP) means the rear and front motor mounts don't protrude out of the frame perimeter
 - Full Travel (FT) means the motor mounts protrude 4mm out of the frame, but it lets you get full travel (check configurator for distances)
 - What should I pick?
   - If you want to stick with regular panels and don't need the overtravel, choose NP
@@ -21,7 +21,7 @@
 - To switch between the two configs won't require the reprinting of motor mounts
 
 ### Should I choose printed or sheet metal?
-- Both have rougly the same performance
+- Both have roughly the same performance
 - Sheet metal pulls heat away from motors and doesn't melt, letting you run higher motor currents or hotter chambers
 - Sheet metal is more work, because of reaming bearing holes, countersinking, and harder assembly
 - Sheet metal is also more noisy due to more transfer of vibrations
@@ -33,7 +33,7 @@
 - Double shear is necessary to tension belts enough without bending the shaft
 - Minimum for 9mm is 37mm (S37)
 - Minimum for 6mm is 35mm (S35)
-- Reccommended motors:
+- Recommended motors:
    - OMC 17HS19-2504S-H-V1
    - LDO 42STH48-2504AH (S55)
    - LDO-42STH48-2504AH (S45R) - Monolith edition, with 2M long cables
@@ -64,12 +64,12 @@
    - Use retaining compound
 
 ### Should I use gt3 belts?
-- GT3 doesn't signifcantly improve IS results, and requires significantly more tension to match GT2
+- GT3 doesn't significantly improve IS results, and requires significantly more tension to match GT2
 - If you want to improve on belts, increasing belt width is more beneficial
 - [Tests](https://monolith-gantry-updates.zen3d.eu/gt3-vs-gt2-epdm-belt-recommendation/)
 - The recommended belts are GT2 EPDM because of temp resistance
 
-### What preload do I need for rails
+### What preload do I need for rails?
 - Y: Rail Z0 / No Preload
   - Belt tension preloads them, and any extra preload can cause unnecessary wear or binding
 - X rail: Z2 / Highest Preload available
@@ -81,7 +81,7 @@
 - Use filled filament for 9/10mm belts, and is recommended for 6mm belts
 - Unfilled abs can crack/split with high belt tension
 - Chamber temp < 65C
-  - ABS (don't get filament thats blended or has lots of addatives) 
+  - ABS (don't get filament that's blended or has lots of additives)
   - ASA
   - ABS/PC
   - ABS+CF/GF
@@ -92,7 +92,7 @@
   - EZPCCF
   - PCCF (Usually needs 100C chamber temp to print, otherwise it is not good)
 - Chamber temp < 150C
-  - PPS-CF (needs to be annealed
+  - PPS-CF (needs to be annealed)
   - PEKKA-CF
   - PSU
 - Chamber temp > 150C
@@ -105,7 +105,7 @@
 ### What print settings should I use?
 - 8 walls, 8 top/bottom layers, 40% infill
 
-## Compatability 
+## Compatibility
 ### What toolheads can I use?
 - See [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible toolheads, belt clamps, and design guidelines.
 
@@ -118,11 +118,11 @@
 - In No Protrusion (NP) mode, use regular 2020 brackets
 
 ### What are these little tabs/slots for?
- - They are for zipties to route your motor cables
+ - They are for zip ties to route your motor cables
 
 <img width="300" alt="Screenshot 2026-01-29 160532" src="https://github.com/user-attachments/assets/be283dfb-eb03-4698-96d5-42196b98dab0" /> <img width="300" alt="Screenshot 2026-01-29 160635" src="https://github.com/user-attachments/assets/fda1d349-ea72-4637-b222-f2da3d12a523" /> 
 
-## What are these clips for?
+### What are these clips for?
 - They are spacers for FT mode for flying gantries
 - These are also found within Z-joint spacers in case you forget to print them
 
@@ -136,7 +136,7 @@
 - [Belt tension Calculator (Lukes Lab)](https://www.lukeslabonline.com/pages/belt-tension-calculator)
 - For large builds, the built-in tension range isn't enough, so you can use a pretensioner
 
-## What if I want to use endstops for homing?
+### What if I want to use endstops for homing?
 - X Endstop: [CAD](CAD/VIII_X_endstop), [STL](STLs/X_endstop_housing.stl)
 - Y_endstop: [CAD](CAD/VII_Y_endstop), [STL](STLs/Y_endstop_housing.stl)
 
@@ -164,14 +164,14 @@
  
 ### Why Front X Rail instead of Top Rail?
 - Carriage is closer to belts and closer to the center of mass (COM) of the toolhead
-- [More indepth explanation](https://monolith-gantry-updates.zen3d.eu/com-position-top-vs-front-rail/)
+- [More in-depth explanation](https://monolith-gantry-updates.zen3d.eu/com-position-top-vs-front-rail/)
 
 ### Is there a difference between 2.4 and Trident (Flying vs Fixed Gantry)?
 - Trident is more rigid, and has a higher max Input Shaper values
-- However, 2.4 can be upgraded to get to near Trident rigidty using:
+- However, 2.4 can be upgraded to get to near Trident rigidity using:
   - Rigid Z joints 
   - Double Z joints (2 carriages on each Z rail)
-- There is roughly a 10-15% increase for Trident for sufficently rigid printers with:
+- There is roughly a 10-15% increase for Trident for sufficiently rigid printers with:
   - 4040 extrusions
   - Structural Panels
   - Double Rigid Z joints for 2.4

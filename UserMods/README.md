@@ -24,9 +24,9 @@ Use user mods at your own risk. They may not receive updates when the main Monol
 | [Monolith cube](SilencedFrost/) | SilencedFrost | Provides a Monolith cube STL. |
 | [X endstop extender and rear Z chain](OlBamboozler/) | OlBamboozler | Adds an Xol-carriage X endstop extender and a rear Z-chain extrusion mount for wiring cleanup. |
 | [V2 MGN9C Z Joints](Iroh/V2%20MGN9C%20Z%20Joints/) | Iroh | Provides V2 Z-joint files for MGN9C Z rails/carriages, including printed, hybrid, and SLM files. |
-| [SLM MGN12H XY-joints](CloakedWayne/SLM_MGN12H_XY_joints/) | CloakedWayne | Adapts Monolith for MGN12H Y rails with SLM XY-joints while keeping the stock belt path and X travel. |
+| [SLM MGN12H XY-joints](CloakedWayne/SLM_MGN12H_XY_joints/) | CloakedWayne | Unmaintained, unsupported adaptation for MGN12H Y rails using SLM XY-joints. MGN9H carriages are recommended instead. |
 | [XY Joints compatible with Fysetc CNC Stealthchanger Shuttle](dderg/XY%20Joints%20compatible%20with%20Fysetc%20CNC%20Stealthchanger%20Shuttle/) | dderg | Moves the X beam back 2 mm so 9 mm belts can clamp from the front of the Fysetc CNC Stealthchanger Shuttle. |
 | [Monolith K1 Max](KhaymKhaym/Monolith%20K1%20Max/) | KhaymKhaym and BootyCallJones | Adapts the Monolith Gantry to the Creality K1 Max with CAD, panel DXF, gantry reinforcement DXF, and print files. |
 | [Monolith VZ330](KhaymKhaym/Monolith%20VZ330/) | KhaymKhaym and Kaifas | Adapts the Monolith Gantry to the VZ330 with CAD-based assembly instructions. |
 | [Sheet-Metal Monolith 3030 Mod](WolfKnifeLaserBacon/) | WolfKnifeLaserBacon | Adapts Sheet-Metal Monolith to 3030 Extrusions with CAD and BOM, changes required, etc |
-| your name here :) |  |  |
+|  | your name here :) |  |
