@@ -2,7 +2,7 @@
 
 # Monolith Gantry R1
 > [!IMPORTANT]
-> **There is no step-by-step build guide or detailed documentation yet.**
+> **Step-by-step build guides for the printed and sheet metal versions are not yet available.**
 > 
 > **The sheet metal version is more difficult to build than what the average Voron user is used to. Please evaluate the required patience and skill levels before proceeding.**
 
@@ -13,9 +13,12 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ### [Official LDO Milled Gantry Kits](https://github.com/Monolith3D/LDO_Monolith_Gantry_Kits)
 
-### [Gantry Configurator](https://mnlth.csovesbanat.hu/)
+## Start Here
 
-### [FAQ](/FAQ.md)
+- [Gantry Configurator](https://configurator.monolith3d.xyz/) for configuration, files, and the selected BOM.
+- [Build guides and assembly notes](Docs/)
+- [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible toolheads, belt clamps, and design guidelines.
+- [FAQ](FAQ.md) for configuration, sourcing, and assembly questions.
 
 ### Drive configurations:
 - 2WD
