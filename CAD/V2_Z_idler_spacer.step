@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'V2_Z_idler_spacer.step',
-/* time_stamp */ '2026-04-01T17:08:25+02:00',
+/* time_stamp */ '2026-10-08T14:07:25+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v14.24.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -1661,17 +1661,19 @@ SOLID_ANGLE_UNIT()
 #1585=PRODUCT_DEFINITION_SHAPE('',$,#1588);
 #1586=SHAPE_REPRESENTATION('',(#932),#1578);
 #1587=PRODUCT_DEFINITION_CONTEXT('part definition',#1592,'design');
-#1588=PRODUCT_DEFINITION('V2_Z_idler_spacer','V2_Z_idler_spacer v1',#1589,
+#1588=PRODUCT_DEFINITION(
+'Voron_2.4r2_Assembly_z_tensioner_bracket_a_x2','V2_Z_idler_spacer',#1589,
 #1587);
 #1589=PRODUCT_DEFINITION_FORMATION('',$,#1594);
-#1590=PRODUCT_RELATED_PRODUCT_CATEGORY('V2_Z_idler_spacer v1',
-'V2_Z_idler_spacer v1',(#1594));
+#1590=PRODUCT_RELATED_PRODUCT_CATEGORY('V2_Z_idler_spacer',
+'V2_Z_idler_spacer',(#1594));
 #1591=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1592);
 #1592=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1593=PRODUCT_CONTEXT('part definition',#1592,'mechanical');
-#1594=PRODUCT('V2_Z_idler_spacer','V2_Z_idler_spacer v1',$,(#1593));
+#1594=PRODUCT('Voron_2.4r2_Assembly_z_tensioner_bracket_a_x2',
+'V2_Z_idler_spacer',$,(#1593));
 #1595=PRESENTATION_STYLE_ASSIGNMENT((#1597));
 #1596=PRESENTATION_STYLE_ASSIGNMENT((#1598));
 #1597=SURFACE_STYLE_USAGE(.BOTH.,#1599);
