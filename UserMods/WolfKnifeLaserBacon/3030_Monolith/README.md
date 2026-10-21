@@ -59,10 +59,7 @@ The following BOM covers the conversion-specific components for the **V-Core 3.1
 | MGN12H X rail | 1 | 565 mm documented build length |
 | MGN12C Y rails | 2 | 550 mm stock rails compatible; 565 mm recommended for new rails |
 | GT2 belt | 2 | 9 mm or 10 mm width; approximately 2.61–2.62 m per belt for the current AWD layout |
-| GT2 drive pulleys | 4 | Must match the selected belt width and motor configuration |
-| GT2 idlers or tensioners | As required | Must match the selected belt width |
 | Monolith sheet-metal gantry plates | 1 set | Use the compatible Monolith AWD configuration |
-| 3030 or stainless-steel tube mounting hardware | As required | Match the selected X-beam option |
 | Rail mounting hardware | As required | Match the selected rail lengths and mounting pattern |
 | Toolhead mounting hardware | As required | Depends on the selected toolhead or toolchanger |
 
@@ -126,7 +123,7 @@ The following BOM covers the conversion-specific components for the **V-Core 3.1
 | 16 | M6 washer |
 | 16 | M6 × 10 BHCS |
 
-The current design supports **9 mm and 10 mm belts**. Select all pulleys, idlers, belt attachments, spacers, and related hardware for the chosen belt width. The pulley list above reflects the current 9 mm AWD configuration. Do not mix 9 mm and 10 mm belt hardware unless the component is specifically designed for both widths.
+The current design supports **9 mm and 10 mm belts**. Select all pulleys, idlers, belt attachments, spacers, and related hardware for the chosen belt width. The pulley list above reflects the current 9 mm AWD configuration. Do not mix 9 mm/10 mm belt hardware unless the component is specifically designed for both widths.
 
 The stainless-steel tube X beam can be used with either belt width. 2WD is not included in the current BOM and is planned for a later release.
 
