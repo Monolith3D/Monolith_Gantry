@@ -35,8 +35,6 @@ The stock 550 mm Y rails are compatible. For newly purchased rails, **565 mm MGN
 
 The documented build dimensions are reference measurements from the physical build and may differ from the original CAD.
 
-*An earlier README listed the rear extrusion as 510 mm. Verify the required length against the current CAD before cutting.*
-
 ## Stainless-Steel X Beam
 
 A **590 mm stainless-steel tube with a 1.5 mm wall thickness** is available as an alternative to the 3030 extrusion X beam.
