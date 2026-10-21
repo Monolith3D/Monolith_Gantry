@@ -43,6 +43,10 @@ The tube is compatible with both the **9 mm and 10 mm belt configurations**, pro
 
 Nuts can be pressed directly into the tube, providing mounting points without conventional extrusion T-nuts. Verify nut locations, thread engagement, and hardware against the current CAD before assembly.
 
+The stainless steel tube CAD can be found under:
+
+**UserMods/WolfKnifeLaserBacon/3030_Monolith/Standard Monolith Assemblies/Stainless Tube - Monolith 1.5mm wall - 590 long.step**
+
 Special thanks to **Veylon** for making this option available.
 
 If you are interested in a stainless-steel X beam, please consider purchasing directly from [**Veylon**](https://discord.com/users/352790875560214538) on Discord to support his work.
