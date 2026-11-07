@@ -1,21 +1,26 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 # Monolith Gantry
 > [!IMPORTANT]
 > **Step-by-step build guides for the printed and sheet metal versions are not yet available.**
 > 
-> **The sheet metal version is more difficult to build than what the average Voron user is used to. Please evaluate the required patience and skill levels before proceeding.**
+> **The sheet metal version is more difficult to build than what the average user is used to. Please evaluate the required patience and skill levels before proceeding.**
 
 ![1](Images/split_view.png)
 
 ## What's this?
-This is a performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
+This is a performance-oriented, configurable gantry platform.
 
 ### [Official LDO Milled Gantry Kits](https://github.com/Monolith3D/LDO_Monolith_Gantry_Kits)
 
 ## Start Here
 
-- [Monolith Builder](https://build.monolith3d.xyz/#gantry) for configuration, the files for your build, and the selected BOM.
+<a href="https://build.monolith3d.xyz/#gantry">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-light.png">
+    <img src="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-light.png" alt="Get started in Monolith Builder" width="320" height="140">
+  </picture>
+</a>
+
 - [Build guides and assembly notes](Docs/)
 - [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible toolheads, belt clamps, and design guidelines.
 - [FAQ](FAQ.md) for configuration, sourcing, and assembly questions.
@@ -26,12 +31,12 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ### Belt widths:
 - 6mm
-- 9mm
+- 9/10mm
 
  ### Materials:
 - Printed
 - Sheet metal
-- Milled kits
+- LDO milled kits
 
 ## What's new
 - Round bearing seats in the printed XY joints, motorless mounts, rear mounts and double-shear housings
@@ -62,31 +67,12 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 **AWD:** It doesn't come at the cost of adding 20cm belt length and idlers, so input shaper scaling can be close to +100% compared to 2WD due to the truly halved effective belt length. But only when no toolhead or frame bottlenecks are limiting its scaling.
 
-**9mm belts:** Wider belts can offer an additional 50% input shaper scaling on top of what's described above.
+**9/10mm belts:** Wider belts can offer an additional 50% input shaper scaling on top of what's described above.
 
 ## What's the catch?
 - you have to build a well-balanced system: the increased effective belt stiffness with higher-end gantry configurations will amplify toolhead and frame rigidity issues
-- Some toolheads are not yet compatible because of the different belt path
+- Some toolheads are not yet compatible because of the different belt path, see [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible ones
 - Z-chain relocation or Z-umbilical is needed on V2
 - Trident rear vertical extrusion brackets have to be rotated by 180 degrees or swapped to regular 2020 brackets based on the gantry configuration
 
-## Acknowledgement
-We want to thank:
-
-- **[Sy-Noon](https://synoon.portfoliobox.net/)** for the awesome logo and feedback on general aesthetics
-- **itsK** for the configurator website
-- **ifp, iniqy, krankydonkey, MoneyShot, Nicket, tktktktk, Zakfarias, Scarecrow, The Adeo** for testing and good feedback
-- **ZaMarin** and **Renovic** for the FAQ
-- **Armchair Heavy Industries** for the exposure and the moderation help I got in their user-project space
-- **VoronDesign** for making V2.4 and Trident and for starting us on this journey
-- anyone who helped us along the way
-
-<br/><br/><br/><br/>
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[Acknowledgements](Acknowledgements.md)

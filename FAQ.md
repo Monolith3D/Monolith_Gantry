@@ -137,8 +137,8 @@
 - For large builds, the built-in tension range isn't enough, so you can use a pretensioner
 
 ### What if I want to use endstops for homing?
-- X Endstop: [CAD](CAD/VIII_X_endstop), [STL](STLs/X_endstop_housing.stl)
-- Y_endstop: [CAD](CAD/VII_Y_endstop), [STL](STLs/Y_endstop_housing.stl)
+- X Endstop: [CAD](CAD/X_endstop), [STL](STLs/X_endstop_housing.stl)
+- Y_endstop: [CAD](CAD/Y_endstop), [STL](STLs/Y_endstop_housing.stl)
 
 ## General Questions
 
