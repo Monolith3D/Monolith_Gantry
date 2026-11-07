@@ -1,2 +1,2 @@
-### The [Gantry Configurator](https://configurator.monolith3d.xyz/) will give you the links to the files you need for your build!
+### The files for your build are available in [Monolith Builder](https://build.monolith3d.xyz/#gantry).
 

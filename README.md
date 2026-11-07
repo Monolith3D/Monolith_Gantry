@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Monolith Gantry R1
+# Monolith Gantry
 > [!IMPORTANT]
 > **Step-by-step build guides for the printed and sheet metal versions are not yet available.**
 > 
@@ -15,7 +15,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ## Start Here
 
-- [Gantry Configurator](https://configurator.monolith3d.xyz/) for configuration, files, and the selected BOM.
+- [Monolith Builder](https://build.monolith3d.xyz/#gantry) for configuration, the files for your build, and the selected BOM.
 - [Build guides and assembly notes](Docs/)
 - [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible toolheads, belt clamps, and design guidelines.
 - [FAQ](FAQ.md) for configuration, sourcing, and assembly questions.
@@ -33,13 +33,12 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Sheet metal
 - Milled kits
 
-## What's new with Monolith R1?
-- Updated styling
-- More shared parts between 6 and 9mm
-- Sheet metal options
-- Can fit into a stock 2020 frame at the cost of some Y-overtravel with the added no-protrusion mode
-- Much better tensioner travel
-- No toothed idlers
+## What's new
+- Round bearing seats in the printed XY joints, motorless mounts, rear mounts and double-shear housings
+- Simpler printed rear mounts, with counterbored stepper screws and one fewer double-shear housing screw
+- VT NP spacers replace the indexing ribs on the printed VT mounts
+- Sheet metal V2 mount plates take the standard 40 x 9 mm belt clamp instead of the hybrid Z-belt clips
+- Updated printed Z joint NP spacer
 <br/>
 
 > [!NOTE]
